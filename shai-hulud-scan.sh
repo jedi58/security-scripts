@@ -17,8 +17,8 @@
 #   - grep, find, xargs, sed, awk (standard Unix utilities)
 #
 # USAGE:
-#   ./test.sh
-#   SKIP_HASH_SCAN=true ./test.sh  # Skip time-consuming hash scan
+#   ./shai-hulud-scan.sh
+#   SKIP_HASH_SCAN=true ./shai-hulud-scan.sh # Skip time-consuming hash scan
 #
 # EXIT CODES:
 #   0 - Success: No malicious indicators detected
